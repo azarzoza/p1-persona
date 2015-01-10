@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+img {
+  background-image: url('img/mzarzoza_persona.jpg');
+  background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Queries*/
+
+/* Tablet */
+@media screen and (max-width: 768px) {
+  
+  body {
+    margin: auto;
+    display: inline-block;
+  }
+
+ }
+  }
+
+
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+  
+  body {
+   margin: auto;
+  }
+
+ 
+
+}
+
+/* Show Grid 
+.showgrid {
+  background: url("../img/grid-bg.png") repeat-y;
+}*/
+
