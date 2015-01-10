@@ -13,9 +13,18 @@ body {
 
 img {
   padding: 5px;
+  margin: auto;
+  position: relative;
+  float: none;
+
 }
 
-
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 5px;
+  float: left;
+  color: #9794D2;
+}
 
 
 
