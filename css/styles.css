@@ -1,13 +1,18 @@
 
 
 
-
+body {
+  background-color: #8CD9BB;
+  margin: auto;
+  display: block;
+  background-image: url('img/mzarzoza_persona.jpg');
+  background-position: center;
+}
 
 
 
 img {
-  background-image: url('img/mzarzoza_persona.jpg');
-  background-position: center;
+  padding: 5px;
 }
 
 
